@@ -551,6 +551,8 @@ ul#nav li.current a { color: #F06000; }
 	text-transform: uppercase;
    letter-spacing: 3px;
    cursor: pointer;
+   /* ADDED FOR EXTRA SPACE AT LINKS FOR MODAL */
+   padding-left: 20px;
 }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
@@ -595,7 +597,7 @@ ul#nav li.current a { color: #F06000; }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
    font-family: 'FontAwesome';
-   content: "\f0ac";
+   content: "\f0c0";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
