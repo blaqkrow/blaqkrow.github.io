@@ -38,8 +38,6 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   filter: blur(8px);
-   -webkit-filter: blur(8px);
 }
 
 /* vertically center banner section */
